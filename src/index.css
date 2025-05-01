@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import "tailwindcss";
+
+.Font-Inter {
+    font-family: "Inter", sans-serif;
+}
+
+.Font-Play {
+  font-family: "Playfair Display", sans-serif;
+}
+  
+html {
+    scroll-behavior: smooth;
+  }
+
+  @keyframes moveRight {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
+  .animate-move-right {
+    animation: moveRight 10s linear infinite;
+  }
+  
