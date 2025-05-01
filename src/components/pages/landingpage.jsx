@@ -171,7 +171,112 @@ function FirstSection() {
             <figure className="flex items-center gap-3">
               <img className="w-8" src="/images/logo-favicon.png" alt="" />
               <h1 className="text-lg font-semibold tracking-wider">
-                  QUEZON CITY
+                  MUSEUM
+              </h1>
+            </figure>
+          </div>
+
+
+          {/* separation para di malito */}
+          <div className="Font-Inter p-4 rounded-4xl" data-aos="zoom-in">
+            <img
+              className="w-full rounded-4xl mb-4 object-cover h-72"
+              src="/images/bsp.jpg"
+              alt=""
+            />
+
+            <span className="text-sm text-gray-400 block mb-2 tracking-wide">
+              April 10, 2025
+            </span>
+
+            <h1 className="text-3xl font-bold leading-tight my-5">
+              Future-Ready: Hytec and BSP Experience
+            </h1>
+
+            <a
+              className="flex w-fit px-8 py-3 items-center border-2 mb-6 rounded-4xl hover:border-green-400 hover:text-green-400 hover:cursor-pointer"
+              target="_blank"
+              rel="noopener noreferrer"
+              href="/bsp-hytec"
+            >
+              <button>Read More</button>
+              <MdKeyboardArrowRight />
+            </a>
+
+            <figure className="flex items-center gap-3">
+              <img className="w-8" src="/images/logo-favicon.png" alt="" />
+              <h1 className="text-lg font-semibold tracking-wider">
+                  BSP & HYTEC
+              </h1>
+            </figure>
+          </div>
+
+
+          {/* separation para di malito */}
+          <div className="Font-Inter p-4 rounded-4xl" data-aos="zoom-in">
+            <img
+              className="w-full rounded-4xl mb-4 object-cover h-72"
+              src="/images/lrt1.jpeg"
+              alt=""
+            />
+
+            <span className="text-sm text-gray-400 block mb-2 tracking-wide">
+              April 11, 2025
+            </span>
+
+            <h1 className="text-3xl font-bold leading-tight my-5">
+              Systems in Motion: MMDA and LRT-2 Experience
+            </h1>
+
+            <a
+              className="flex w-fit px-8 py-3 items-center border-2 mb-6 rounded-4xl hover:border-green-400 hover:text-green-400 hover:cursor-pointer"
+              target="_blank"
+              rel="noopener noreferrer"
+              href="/lrt-mmda"
+            >
+              <button>Read More</button>
+              <MdKeyboardArrowRight />
+            </a>
+
+            <figure className="flex items-center gap-3">
+              <img className="w-8" src="/images/logo-favicon.png" alt="" />
+              <h1 className="text-lg font-semibold tracking-wider">
+                  LRT & MMDA
+              </h1>
+            </figure>
+          </div>
+
+
+          {/* separation para di malito */}
+          <div className="Font-Inter p-4 rounded-4xl" data-aos="zoom-in">
+            <img
+              className="w-full rounded-4xl mb-4 object-cover h-72"
+              src="/images/introB.png"
+              alt=""
+            />
+
+            <span className="text-sm text-gray-400 block mb-2 tracking-wide">
+              April 12, 2025
+            </span>
+
+            <h1 className="text-3xl font-bold leading-tight my-5">
+              Peaks and Pines: Our Baguio Tour
+            </h1>
+
+            <a
+              className="flex w-fit px-8 py-3 items-center border-2 mb-6 rounded-4xl hover:border-green-400 hover:text-green-400 hover:cursor-pointer"
+              target="_blank"
+              rel="noopener noreferrer"
+              href="/baguio-tour"
+            >
+              <button>Read More</button>
+              <MdKeyboardArrowRight />
+            </a>
+
+            <figure className="flex items-center gap-3">
+              <img className="w-8" src="/images/logo-favicon.png" alt="" />
+              <h1 className="text-lg font-semibold tracking-wider">
+                  BAGUIO
               </h1>
             </figure>
           </div>
