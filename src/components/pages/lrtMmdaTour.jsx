@@ -63,8 +63,8 @@ function LrtMmdaTour(){
                             <p className="mb-7 Font-Play text-lg max-lg:text-base max-sm:text-[.6rem]">Our visit to the Metropolitan Manila Development Authority (MMDA) headquarters offered an eye-opening experience into the agency responsible for the pulse of Metro Manila’s daily flow. Nestled in Pasig City, the towering 20-story facility serves as the command center for managing traffic, disaster response, urban planning, and public safety across the capital region. As we moved through various departments and control rooms, we were introduced to the systems and technologies used to monitor real-time traffic conditions, coordinate emergency responses, and enforce road safety regulations. The agency’s dedication to maintaining order amid the urban chaos was evident in every corner.</p>
 
                             <figure className="w-full mb-5 flex gap-4 max-lg:flex-col">
-                                <img className="object-cover h-96 w-full" src="/images/mmda1.png" alt="" />
-                                <img className="object-cover h-96 w-full" src="/images/mmda2.png" alt="" />
+                                <img className="object-cover h-96 w-1/2 max-lg:w-full" src="/images/mmda1.png" alt="" />
+                                <img className="object-cover h-96 w-1/2 max-lg:w-full" src="/images/mmda2.png" alt="" />
                             </figure>
 
                             <p className=" Font-Play text-lg max-lg:text-base max-sm:text-[.6rem]">Guided by MMDA personnel, we explored how they manage metropolitan-wide projects, from flood control initiatives to pedestrian safety campaigns. We observed how CCTV surveillance, digital mapping, and traffic modeling tools are utilized to ensure smooth coordination among local government units. The visit highlighted the complexities of governing a megacity and the crucial role MMDA plays in shaping a more efficient and livable Metro Manila. It was a powerful reminder that beneath the everyday movements of commuters and motorists lies a highly organized system built on public service, discipline, and innovation.</p>
