@@ -42,7 +42,7 @@ function BspHytecTour(){
                             <span className="text-center w-fit ">
                                 <hr className=" w-full border-2" />
                                 <h1 className="Font-Play text-4xl font-bold">25</h1>
-                                <h1 className="text-sm text-slate-400 mt-1 font-sans">APRIL 7</h1>
+                                <h1 className="text-sm text-slate-400 mt-1 font-sans">APRIL 10</h1>
                             </span>
 
                             <span className="flex flex-col justify-center max-md:flex-row items-center mt-7 text-4xl max-sm:text-xl gap-3 max-md:mb-10">
