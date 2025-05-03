@@ -6,6 +6,7 @@ import MuseumTour from "./components/pages/museumTour";
 import BspHytecTour from "./components/pages/bspHytecTour";
 import LrtMmdaTour from "./components/pages/lrtMmdaTour";
 import BaguioTour from "./components/pages/baguioTour";
+import BaguioParkTour from "./components/pages/baguio-parks";
 
 function App() {
 
@@ -20,6 +21,7 @@ function App() {
           <Route path="/bsp-hytec" element={<BspHytecTour />} />
           <Route path="/lrt-mmda" element={<LrtMmdaTour />} />
           <Route path="/baguio-tour" element={<BaguioTour />} />
+          <Route path="/baguio-parks" element={<BaguioParkTour />} />
         </Routes>
       </Router>
     </>

@@ -280,6 +280,40 @@ function FirstSection() {
               </h1>
             </figure>
           </div>
+
+          {/* separation para di malito */}
+          <div className="Font-Inter p-4 rounded-4xl" data-aos="zoom-in">
+            <img
+              className="w-full rounded-4xl mb-4 object-cover h-72"
+              src="/images/mansion.png"
+              alt=""
+            />
+
+            <span className="text-sm text-gray-400 block mb-2 tracking-wide">
+              April 13, 2025
+            </span>
+
+            <h1 className="text-3xl font-bold leading-tight my-5">
+              Scenic Steps: Exploring Baguio’s Gems
+            </h1>
+
+            <a
+              className="flex w-fit px-8 py-3 items-center border-2 mb-6 rounded-4xl hover:border-green-400 hover:text-green-400 hover:cursor-pointer"
+              target="_blank"
+              rel="noopener noreferrer"
+              href="/baguio-parks"
+            >
+              <button>Read More</button>
+              <MdKeyboardArrowRight />
+            </a>
+
+            <figure className="flex items-center gap-3">
+              <img className="w-8" src="/images/logo-favicon.png" alt="" />
+              <h1 className="text-lg font-semibold tracking-wider">
+                  BAGUIO
+              </h1>
+            </figure>
+          </div>
         </figure>
       </section>
 
